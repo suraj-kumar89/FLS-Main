@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/tef-canada-trial-class/:path*",
+      "destination": "https://fls-tef-canada.vercel.app/:path*"
+    },
+    {
+      "source": "/tef-india-trial-class/:path*",
+      "destination": "https://fls-tef-india.vercel.app/:path*"
+    }
+  ]
+}
