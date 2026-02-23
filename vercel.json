@@ -7,6 +7,10 @@
     {
       "source": "/tef-india-trial-class/:path*",
       "destination": "https://fls-tef-india.vercel.app/:path*"
+    },
+    {
+      "source": "/tef-trial-india-clear-tef-in-120-days/:path*",
+      "destination": "https://tls-the-learning-school.vercel.app/:path*"
     }
   ]
 }
