@@ -10,11 +10,11 @@
     },
     {
       "source": "/tef-trial-india-clear-tef-in-120-days",
-      "destination": "https://tls-the-learning-school.vercel.app/tef-trial-india-clear-tef-in-120-days"
+      "destination": "https://the-learning-school-ten.vercel.app/tef-trial-india-clear-tef-in-120-days"
     },
     {
       "source": "/tef-trial-india-clear-tef-in-120-days/:path*",
-      "destination": "https://tls-the-learning-school.vercel.app/tef-trial-india-clear-tef-in-120-days/:path*"
+      "destination": "https://the-learning-school-ten.vercel.app/tef-trial-india-clear-tef-in-120-days/:path*"
     }
   ]
 }
