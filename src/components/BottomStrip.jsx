@@ -57,7 +57,7 @@ export default function BottomStrip() {
           className="bs-btn"
           onClick={() => (window.location.href = "https://rzp.io/rzp/0iBhgVwy")}
         >
-          <span className="bs-badge">22 Seats left</span>
+          {/* <span className="bs-badge">22 Seats left</span> */}
           Book your seat now
         </button>
       </div>
